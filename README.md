@@ -1,6 +1,6 @@
 # Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**This repository is being archived until November 2020 due to high volumes of [low quality PRs](https://github.com/MunGell/awesome-for-beginners/pulls?q=is%3Apr+is%3Aclosed+label%3Ainvalid) related to Hacktoberfest. Thanks for your understanding!**
+**This repository is being archived until November 2020 due to high volumes of [low-quality PRs](https://github.com/MunGell/awesome-for-beginners/pulls?q=is%3Apr+is%3Aclosed+label%3Ainvalid) related to Hacktoberfest. Thanks for your understanding!**
 
 A list of awesome beginner-friendly projects.
 
@@ -8,7 +8,7 @@ Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) b
 
 If you are a maintainer of open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
 
-If you are looking to contribute, then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
+If you are looking to contribute, then explore this list, look at [`first-timers-only` labeled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
 
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
